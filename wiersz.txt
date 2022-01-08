@@ -1,4 +1,10 @@
 Patrzę w niebo nie ma chmurki
 Deszczyk wali jednak z górki
+<<<<<<< HEAD
+=======
+Dziwny jakiś trudna sprawa 
+Bo gdzie padnie, żółta plama.
+
+>>>>>>> 657ff0d378e3013eccf9d6b9640e2cf97519a941
 Więc zadzieram oczy w górę
 Sąsiad swą wywalił rurę
